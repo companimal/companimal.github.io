@@ -16,10 +16,10 @@ minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "ko-KR"
-title: "Companimal"
+title: "컴패니몰"
 title_separator: "-"
-subtitle: "Talk about companion" # site tagline that appears below site title in masthead
-name: "Companimal"
+subtitle: "Companion + Animal" # site tagline that appears below site title in masthead
+name: "컴패니몰"
 description: "컴패니몰은 강아지 고양이 등 반려동물에 대한 이야기를 전합니다."
 url: "https://companimal.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
