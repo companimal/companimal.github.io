@@ -8,7 +8,7 @@ author: Companimal
 
 옥상 가자는 한 마디에 자다가 벌떡 일어난 강아지 영상에 미소가 절로 나오고 있다. 지난 20일 아이디 0chanwool0을 쓰는 네티즌은 자신의 인스타그램에 "벼락아 옥상갈까? 한 마디 했을 뿐인데 우다다다 뛰어갔다"며 영상을 게재했다.
 
-{% youtube_url "https://www.youtube.com/watch?v=fJ1wh-yOXaw" %}
+{% youtube "https://www.youtube.com/watch?v=fJ1wh-yOXaw" %}
 
 (출처: 유튜브 컴패니몰)
 

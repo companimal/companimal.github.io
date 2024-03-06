@@ -10,7 +10,7 @@ author: Companimal
 
 강아지의 주인은 "그래 그렇다면 둘이 직접 만나서 이야기 해봐" 하고 문을 열었습니다. (저라면 겁나서 문을 못 열 것 같은데 이 주인도 대단하네요)
 
-{% youtube_url "https://www.youtube.com/watch?v=yxExmwr6RXs" %}
+{% youtube "https://www.youtube.com/watch?v=yxExmwr6RXs" %}
 
 "어어.. 이게 아닌데..."  
  "잠깐, 아직 마음의 준비가..."

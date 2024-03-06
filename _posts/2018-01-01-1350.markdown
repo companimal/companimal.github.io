@@ -30,7 +30,7 @@ author: Companimal
 
 아래의 영상에서 연주하는 고양이 노라의 피아노 연주도 들어볼 수 있어요.
 
-{% youtube_url "https://www.youtube.com/watch?v=v0zgQAp7EYw" %}
+{% youtube "https://www.youtube.com/watch?v=v0zgQAp7EYw" %}
 
 어떤가요? 고양이만의 음악적 감각이 느껴지지 않나요? 어쩌면 사람이 만드는 고양이용 음악보다 훌륭한 음악을 만들 수도 있을 것 같아요.
 

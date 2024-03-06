@@ -20,7 +20,7 @@ author: Companimal
 
 이런 맛에 고양이 모시지~ 집사는 오늘도 행복합니다. 아래의 영상에서 고양이씨의 사랑스러움을 느껴보세요!
 
-{% youtube_url "https://www.youtube.com/watch?v=G-NLG9fQT8I" %}
+{% youtube "https://www.youtube.com/watch?v=G-NLG9fQT8I" %}
 
 고양이를 포함해 털 달린 친구들은 여름철에 특히 힘들어요. 털도 있는데다가 체온이 사람보다 1~2도 더 높거든요.
 

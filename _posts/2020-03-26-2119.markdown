@@ -20,7 +20,7 @@ author: Companimal
 
 싸움 결과는 잘 모르겠지만, 아마 집사가 달려가서 싸움을 말리지 않았을까요? 하지만 친구가 다른 냥이에게 맞고 있자 바로 달려가서 혼내주는 모습이 너무 멋있네요!
 
-{% youtube_url "https://www.youtube.com/watch?v=vud_A3zKXes" %}
+{% youtube "https://www.youtube.com/watch?v=vud_A3zKXes" %}
 
 복수하는 히어로 냥이! 영상으로 보면 더 멋있답니다! 꼭 한번 보시길!
 

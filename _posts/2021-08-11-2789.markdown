@@ -62,4 +62,4 @@ author: Companimal
 
 영상을 보고 판단해 주실 집사님들을 소환합니다!!
 
-{% youtube_url "https://www.youtube.com/watch?v=4oHoMw_bXtw" %}
+{% youtube "https://www.youtube.com/watch?v=4oHoMw_bXtw" %}

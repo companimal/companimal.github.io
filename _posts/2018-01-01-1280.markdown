@@ -38,7 +38,7 @@ _출처 : Project Paws의 페이스북 페이지_
 
 친구를 잃은 이지는 슬퍼했어요. 많은 사람들이 이지를 걱정해주었습니다. 루스와 이지의 감동적인 우정 이야기가 슬프게 끝났지만 이지는 앞으로도 계속 사랑 받으며 살아갈 것입니다.
 
-{%  youtube_url "https://www.youtube.com/watch?v=1AkTdvTOngo" %}
+{%  youtube "https://www.youtube.com/watch?v=1AkTdvTOngo" %}
 
 _출처: 유튜브 Orlando Sentinel_
 

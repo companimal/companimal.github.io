@@ -28,7 +28,7 @@ author: Companimal
 
 이쁘다~ 이쁘다 했는데...
 
-{% youtube_url "https://www.youtube.com/watch?v=F5jb64YZEZY" %}
+{% youtube "https://www.youtube.com/watch?v=F5jb64YZEZY" %}
 
 요즘 아이들도 먹을 게 워낙 많다보니,
 
