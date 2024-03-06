@@ -4,9 +4,13 @@ title: "주민들 덕에 찜통 컨테이너에서 구출된 강아지"
 date: 2021-08-10 08:00:00
 categories: 감동
 author: Companimal
+header:
+  og_image: /assets/images/dog-in-container.jpg
 ---
 
 용산구 한 지역에 컨테이너 안에 강아지가 갇혀있는 모습입니다.
+
+![컨테이너 안에 같혀있는 강아지](/assets/images/dog-in-container.jpg)
 
 더운 여름 폭염으로 컨테이너의 내부 온도가 올라가 강아지는 더위에 그대로 노출된 상태인데요
 

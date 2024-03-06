@@ -4,6 +4,8 @@ title: "우리집 댕댕이가 좋아하는 바베큐 장난감"
 date: 2021-08-13 06:00:00
 categories: 상품
 author: Companimal
+header:
+  og_image: /assets/images/maxresdefault-YOnuP6gG8qo.jpg
 ---
 
 장난감 좋아하는 댕댕이들 모두 모여라!!
@@ -18,12 +20,14 @@ author: Companimal
 
 아기 댕댕이들의 필수 장난감인거 같아요 ㅋㅋㅋㅋ
 
+![펫모닝 바베큐 봉제 장난감](/assets/images/petmorning-barbecue.jpeg)
+
 펫모닝의 바베큐 봉제 장난감인데요!
 
-아이들이 좋아하는 삑삑이가 들어있어 흥미를 유발한다고 해요
-
-모두 컴패니몰샵에 올라온 리얼 후기 사진들입니다! 별 다섯개 ★★★★★
+아이들이 좋아하는 삑삑이가 들어있어 흥미를 유발한다고 해요.
 
 댕댕이들이 좋아하는 모습들이 너무 귀엽습니다.
 
 장난감 없이 심심해하는 댕댕이들이 있다면 하나 선물해 주는 것은 어떨까요?
+
+{% youtube "https://www.youtube.com/watch?v=YOnuP6gG8qo" %}

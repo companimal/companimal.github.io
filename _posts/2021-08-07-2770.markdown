@@ -4,9 +4,13 @@ title: "울적한 소년을 위로하는 길고양이 릴리"
 date: 2021-08-07 06:00:00
 categories: 감동
 author: Companimal
+header:
+  og_image: /assets/images/maxresdefault-EAqH_vpyu9E.jpg
 ---
 
 미국 아이다호주 보이시에 사는 5살 소년은 평소 좋아하던 티볼 경기의 리그 시즌이 종료되어 울적한 마음을 감추지 못하고 있었습니다.
+
+![5살 리암과 길고양이 릴리](/assets/images/maxresdefault-EAqH_vpyu9E.jpg)
 
 시무룩한 소년 리암의 마음을 알아채기라도 한 것인지 평소 리안과 친분이 있던 길고양이 릴리가 찾아왔어요
 
@@ -23,3 +27,5 @@ author: Companimal
 보기만 해도 마음이 훈훈해지는 영상인데요
 
 두 친구의 우정이 앞으로도 계속 이어지길 바랍니다 :)
+
+{% youtube "https://www.youtube.com/watch?v=EAqH_vpyu9E" %}

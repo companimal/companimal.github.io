@@ -4,6 +4,8 @@ title: "아기를 위해 손잡아 주는 강아지"
 date: 2021-08-12 08:00:00
 categories: 감동
 author: Companimal
+header:
+  og_image: /assets/images/maxresdefault-JA8VJh0UJtg.jpg
 ---
 
 강아지와 아기는 사이가 매우 좋은 친구인가 봅니다.
@@ -11,6 +13,8 @@ author: Companimal
 서로를 바라보며 함께 누워있는 모습을 보여주는데요
 
 아기는 강아지가 신기하고 좋은지 연신 미소를 띠고 있어요
+
+![God doesn't make mistakes](/assets/images/maxresdefault-JA8VJh0UJtg.jpg)
 
 서로를 바라보는 투 샷은 보기만 해도 너무 예쁘네요 :)
 
@@ -25,3 +29,5 @@ author: Companimal
 곁에서 함께 뒹굴거리고 장난치며 사랑스러운 케미를 보여주는 이들이에요~
 
 예쁜 우정 변치 말고 함께 건강히 자라나길 바랍니다 :)
+
+{% youtube "https://www.youtube.com/watch?v=JA8VJh0UJtg" %}

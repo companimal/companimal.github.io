@@ -4,6 +4,8 @@ title: "고양이를 등에 업은  서비스독♡"
 date: 2021-08-06 02:00:00
 categories: 감동
 author: Companimal
+header:
+  og_image: /assets/images/maxresdefault-JWyaaAthHR8.jpg
 ---
 
 오늘의 주인공을 소개합니다!
@@ -13,6 +15,8 @@ author: Companimal
 삼손은 사람을 돕는 도우미견이에요!
 
 도움이 필요한 사람과 함께 하며 조금 더 안정적인 생활을 할 수 있게 도와주는 아주 기특한 친구예요.
+
+![삼손과 클리오](/assets/images/maxresdefault-JWyaaAthHR8.jpg)
 
 그런데... 자신의 임무에 너무 충실한 나머지 다른 친구들과 어울리는 데에 어려움을 겪고 있었어요ㅠㅠㅠ
 
@@ -41,3 +45,5 @@ author: Companimal
 삼손은 클리오를 만나면서 사람을 위해서가 아닌 자신을 위한 새로운 일상을 만들어가고 있어요.
 
 둘의 아름다운 이야기가 궁금하다면 하단 영상으로 만나보세요 :)
+
+{% youtube "https://www.youtube.com/watch?v=JWyaaAthHR8" %}
