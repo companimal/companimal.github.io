@@ -20,7 +20,7 @@ author: Companimal
 
 지구를 뿌시고 싶은 고양이 링크의 귀여움은 아래의 영상에서 느껴보세요.
 
-{% youtube_url "https://www.youtube.com/watch?v=s2rKr07YOiM" %}
+{% youtube "https://www.youtube.com/watch?v=s2rKr07YOiM" %}
 
 평일에는 돈사냥(?)을 하느라 떠나는 직장인 집사들이 가장 기다리는 시간 주말.. 하지만 주말에 아무것도 하기 싫어 누워 있을때면 어김없이 고양이님이 일어나서 밥 달라며 집사에게 다가옵니다.
 

@@ -8,7 +8,7 @@ author: Companimal
 
 고양이하면 보통 높고 날카로운 '야옹' 소리를 떠올리게 됩니다. 그런데 아주 차분한 중저음의 소리를 내는 고양이가 화제를 모으고 있는데요.
 
-{% youtube_url "https://www.youtube.com/watch?v=w7x_lWJNnNg" %}
+{% youtube "https://www.youtube.com/watch?v=w7x_lWJNnNg" %}
 
 _출처: 유튜브 Cash Cat Flava_
 
@@ -26,7 +26,7 @@ _고양이 커뮤니티 thecatsite.com_
 
 실제로도 해외의 고양이 커뮤니티에서 이 질환을 가진 고양이를 모시는 집사님들의 글을 꽤 볼 수 있었는데요. 흔하지 않은 질환이지만 비슷한 문제를 가진 고양이가 많이 있는 것 같습니다.
 
-{% youtube_url "https://www.youtube.com/watch?time_continue=3&v=E3CgnP2zsFA" %}
+{% youtube "https://www.youtube.com/watch?time_continue=3&v=E3CgnP2zsFA" %}
 
 _출처: 유튜브 Cash Cat Flava_
 

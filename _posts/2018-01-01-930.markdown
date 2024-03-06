@@ -14,7 +14,7 @@ author: Companimal
 
 현대사회에서는 대신 음식을 만드는 요리사부터 하루를 함께 하는 친구까지 스마트폰을 통해 함께할 수 있습니다. 그렇다면 사랑스러운 강아지가 사무실까지 찾아와 준다면?
 
-{% youtube_url "https://www.youtube.com/watch?v=y52mdfVSyzM" %}
+{% youtube "https://www.youtube.com/watch?v=y52mdfVSyzM" %}
 
 실제로 미국에서 차량 공유로 유명한 우버(Uber)가 한시적으로 강아지 배달 서비스를 선보인 바 있답니다.
 
