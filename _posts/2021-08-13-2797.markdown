@@ -1,9 +1,11 @@
 ---
 layout: single
-title: "어느 부부를 따라간  유기견 이야기"
+title: "어느 부부를 따라간 유기견 이야기"
 date: 2021-08-13 02:00:00
 categories: 감동
 author: Companimal
+header:
+  og_image: /assets/images/maxresdefault-Gk8e3Lg5GFU.jpg
 ---
 
 안녕하세요! 나는 길에서 살고 있어요.
@@ -13,6 +15,8 @@ author: Companimal
 그래서 내 가족을 직접 만들어야겠다고 생각했어요!!
 
 어느 날, 나의 마음에 쏙 드는 부부를 만났어요!
+
+![부부를 따라간 유기견](/assets/images/maxresdefault-Gk8e3Lg5GFU.jpg)
 
 나는 그동안 갈고닦은 귀여움을 모두 보여주며 엄마의 마음을 녹였어요.
 
@@ -61,3 +65,5 @@ author: Companimal
 내 선택은 틀리지 않았어요. 나는 정말 좋은 사람들을 가족으로 선택한 것 같아요.
 
 엄마 아빠를 만나고 집에 따라오기까지 우리의 영상이 궁금하면 아래에서 확인해보세요!
+
+{% youtube "https://www.youtube.com/watch?v=Gk8e3Lg5GFU" %}

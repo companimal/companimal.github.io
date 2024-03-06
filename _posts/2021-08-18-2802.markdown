@@ -4,11 +4,13 @@ title: "고양이에게 스크래쳐가 필요한 이유 3"
 date: 2021-08-18 06:00:00
 categories: 상품
 author: Companimal
+header:
+  og_image: /assets/images/cat-scratch-1024x1024.png
 ---
 
-고양이를 키우는 집이라면 스크래쳐 하나씩은 꼭 있을 텐데요!
+고양이를 키우는 집이라면 스크래쳐 하나씩은 꼭 있을 텐데요, 스크래쳐가 왜 필요하고 스크래치를 하는 이유는 무엇인지 알아보아요!
 
-스크래쳐가 왜 필요하고 스크래치를 하는 이유는 무엇인지 알아보아요!
+![고양이와 스크래치](/assets/images/cat-scratch-1024x1024.png)
 
 ## 1. 영역표시
 
