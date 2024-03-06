@@ -4,11 +4,15 @@ title: "입양 간 곳에서 아빠를 만나게 된 아기 고양이"
 date: 2021-08-17 08:00:00
 categories: 감동
 author: Companimal
+header:
+  og_image: /assets/images/maxresdefault-2z6DWxeVdC8.jpg
 ---
 
 아기 고양이는 눈에 외상을 입은 채로 구조되었습니다! ㅠㅠ
 
 경계심도 많은 상태로 하악질을 하는 모습인데요
+
+{% youtube "https://www.youtube.com/watch?v=2z6DWxeVdC8" %}
 
 구조 후 치료를 받으며 점점 회복해가고 있는 모습이에요
 

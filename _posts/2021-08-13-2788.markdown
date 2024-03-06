@@ -8,6 +8,8 @@ author: Companimal
 
 골든 리트리버 친구는 거울을 처음 봤나 봅니다!
 
+![거울 앞에 선 골든 리트리버](/assets/images/maxresdefault-Uph2CZY_Xl0.jpg)
+
 거울 속에 비친 모습이 자신인지 모르고 낯설어하는 모습을 보여주네요
 
 조심스레 거울 앞으로 다가와보는데요!
@@ -21,3 +23,5 @@ author: Companimal
 자신을 따라 움직이는 거울 속 강아지의 모습이 이해가 가지 않나 봅니다
 
 영상으로 거울을 처음 본 강아지의 당황스러운 반응을 확인해보세요! ㅋㅋㅋㅋㅋ
+
+{% youtube "https://www.youtube.com/watch?v=Uph2CZY_Xl0" %}

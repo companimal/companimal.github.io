@@ -1,12 +1,16 @@
 ---
 layout: single
-title: "고양이가 집사에게  몸을 비비는 이유!"
+title: "고양이가 집사에게 몸을 비비는 이유!"
 date: 2021-08-15 02:00:00
 categories: 행동+심리
 author: Companimal
+header:
+  og_image: /assets/images/shake-between-cat-and-girl.png
 ---
 
 외출에서 돌아온 집사!! 집사에게 다가온 냥이가 스윽 지나가며 다리에 몸을 비빕니다.
+
+![몸 비비는 고양이](/assets/images/shake-between-cat-and-girl.png)
 
 집사는 냥님의 몸짓에 심장이 녹아내리고요^^
 

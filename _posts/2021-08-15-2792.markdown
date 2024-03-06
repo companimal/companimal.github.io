@@ -4,6 +4,8 @@ title: "수영장에서 다이빙을 시도하는 강아지"
 date: 2021-08-15 12:00:00
 categories: 재미
 author: Companimal
+header:
+  og_image: /assets/images/maxresdefault-5GRD6892h6M.jpg
 ---
 
 이 강아지 친구는 수영을 정말 좋아하나 봅니다!
@@ -11,6 +13,8 @@ author: Companimal
 펜스 문을 열어주자마자 수영장으로 달려가는데요
 
 귀여운 상어 구명조끼를 입고 있어요 ㅋㅋㅋㅋ
+
+![구명조끼 입은 강이지](/assets/images/maxresdefault-5GRD6892h6M.jpg)
 
 수영장으로 가서 물속으로 다이빙을 하고 싶어 합니다.
 
@@ -27,3 +31,5 @@ author: Companimal
 무사히 수영을 하게 돼서 다행입니다.
 
 수영장에서 다이빙을 시도하는 귀여운 모습을 영상으로 확인해보세요!
+
+{% youtube "https://www.youtube.com/watch?v=5GRD6892h6M" %}
