@@ -4,9 +4,13 @@ title: "강아지가 보호자를 핥아주는 다양한 이유"
 date: 2021-08-11 08:00:00
 categories: 행동+심리
 author: Companimal
+header:
+  og_image: /assets/images/dogs-lick-their-owners.jpg
 ---
 
 오늘은 강아지가 보호자를 핥아주는 이유에 대해 알아보아요
+
+![](/assets/images/dogs-lick-their-owners.jpg)
 
 강아지가 보호자의 얼굴과 몸 등을 핥아주는 경우가 있는데요
 

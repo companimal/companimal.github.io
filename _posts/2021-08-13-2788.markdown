@@ -4,6 +4,8 @@ title: "거울을 처음 본 강아지의 당황스러운 반응"
 date: 2021-08-13 08:00:00
 categories: 재미
 author: Companimal
+header:
+  og_image: /assets/images/maxresdefault-Uph2CZY_Xl0.jpg
 ---
 
 골든 리트리버 친구는 거울을 처음 봤나 봅니다!

@@ -4,6 +4,8 @@ title: "더러워진 우리 댕냥이 목욕장갑으로 관리해요!"
 date: 2021-08-11 06:00:00
 categories: 상품
 author: Companimal
+header:
+  og_image: /assets/images/bathing-a-dog.jpg
 ---
 
 산책만 하면 더러워지는 우리 강아지!
@@ -11,6 +13,8 @@ author: Companimal
 신나게 노는 걸 말릴 수도 없고 매번 목욕을 씻겨주기도 너무 힘든데요!
 
 좋은 관리 방법이 있을까요?
+
+![목욕하는 강아지](/assets/images/bathing-a-dog.jpg)
 
 특히 하얀 모질의 강아지나 산책을 많이 하는 강아지의 경우 더욱 쉽게 꼬질꼬질해지는 모습을 볼 수 있어요 ㅠㅠ
 

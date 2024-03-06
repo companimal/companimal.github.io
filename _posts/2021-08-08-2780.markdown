@@ -1,9 +1,11 @@
 ---
 layout: single
-title: "고양이에게 캣타워가  꼭 필요한 이유~!"
+title: "고양이에게 캣타워가 꼭 필요한 이유~!"
 date: 2021-08-08 02:00:00
 categories: 행동+심리
 author: Companimal
+header:
+  og_image: /assets/images/hqdefault-eFYTZgbUlqU.jpg
 ---
 
 집사들의 로망 캣타워!!
@@ -11,6 +13,8 @@ author: Companimal
 창가에서 나른하게 햇살 받으며 쉬는 고양이만큼 행복한 고양이가 없어요.
 
 고양이는 왜 캣타워를 좋아하고 캣타워가 필요할까요?
+
+![캣토피아 왕국](/assets/images/hqdefault-eFYTZgbUlqU.jpg)
 
 고양이는 수직공간으로 활동하는 동물입니다.
 
@@ -33,3 +37,5 @@ author: Companimal
 고양이는 높은 곳에서 아래를 내려다보는 걸 좋아하기 때문에 캣타워를 설치할 때는 햇볕이 잘 드는 창가 자리가 가장 좋답니다 :)
 
 오늘도 냥이를 위해서 최선을 다하는 집사님들을 응원해요♡
+
+{% youtube "https://www.youtube.com/watch?v=eFYTZgbUlqU" %}

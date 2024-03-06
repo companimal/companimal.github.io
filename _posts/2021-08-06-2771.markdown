@@ -4,11 +4,15 @@ title: "씹고 뜯고 즐기고 싶은 강아지를 위한 터키츄!"
 date: 2021-08-06 06:00:00
 categories: 상품
 author: Companimal
+header:
+  og_image: /assets/images/turkey-tendon-pretzel.jpg
 ---
 
 강아지들의 씹는 욕구를 충족시켜주는 것도 참 중요한데요!
 
 물고 뜯고 씹고 즐기길 좋아하는 강아지들을 위한 단단한 강아지 간식 터키츄를 소개해드려요
+
+![터키츄](/assets/images/turkey-tendon-pretzel.jpg)
 
 한우내피, 칠면조, 닭가슴살로 만들어진 터키츄링은 S와 M 사이즈가 있어 견종 크기별로 선택해 먹일 수 있어 좋은 거 같아요!
 
